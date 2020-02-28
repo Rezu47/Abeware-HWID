@@ -1,0 +1,1 @@
+# Abeware-HWID
